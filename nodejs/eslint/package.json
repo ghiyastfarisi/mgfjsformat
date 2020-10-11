@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-mgfjsformat-nodejs",
+  "version": "1.0.0",
+  "description": "Eslint config file for nodejs with mgfjsformat standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "moeghifar",
+  "license": "ISC"
+}

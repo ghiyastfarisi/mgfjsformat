@@ -1,0 +1,12 @@
+{
+  "name": "mgfjsformat",
+  "version": "1.0.0",
+  "description": "Javascript Format contains Eslint and Prettier configuration for moeghifar's javascript code standard.",
+  "main": "index.js",
+  "prettier": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
